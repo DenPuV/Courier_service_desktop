@@ -1,0 +1,41 @@
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\Courier_service.exe.config
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\Courier_service.exe
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\Courier_service.pdb
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework.dll
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework6.Npgsql.dll
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\Npgsql.dll
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework.xml
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\EntityFramework6.Npgsql.xml
+D:\ИТ-21\Courier_service\Courier_service\bin\Debug\Npgsql.xml
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.csprojResolveAssemblyReference.cache
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.Form1.resources
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.Properties.Resources.resources
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.csproj.GenerateResource.Cache
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.exe
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.pdb
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\Courier_service.exe.config
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\Courier_service.exe
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\Courier_service.pdb
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework.dll
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\Npgsql.dll
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework.xml
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\bin\Debug\Npgsql.xml
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.Form1.resources
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.Properties.Resources.resources
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.csproj.GenerateResource.cache
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.csproj.CoreCompileInputs.cache
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.csproj.CopyComplete
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.exe
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.pdb
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.redactOrderForm.resources
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.newExtClientForm.resources
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.newExtClientForm.resources
+D:\ИТ-21\Courier_service\Courier_service\obj\Debug\Courier_service.redactOrderForm.resources
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.csproj.AssemblyReference.cache
+D:\Курьерская служба\Courier_serviceADO\Courier_service\Courier_service\obj\Debug\Courier_service.AskStringForm.resources
